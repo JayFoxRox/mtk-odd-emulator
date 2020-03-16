@@ -1,0 +1,3 @@
+[submodule "emu8051"]
+	path = emu8051
+	url = https://github.com/jarikomppa/emu8051.git
